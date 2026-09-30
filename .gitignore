@@ -1,0 +1,12 @@
+# SolidWorks temporary/backup files
+*.swo
+*.swp
+*.bak
+~$*
+
+# Temporary files
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
